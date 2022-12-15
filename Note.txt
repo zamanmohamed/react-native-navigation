@@ -9,3 +9,9 @@ shadowRadius: 8,
 
 //if you want to change backgroundColor of full app --> add app.json 
  "backgroundColor": "#24180f",
+
+ //react Navigation
+ - npm install @react-navigation/native
+ - npx expo install react-native-screens react-native-safe-area-context
+ - npm install @react-navigation/native-stack
+
