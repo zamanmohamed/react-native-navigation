@@ -1,0 +1,11 @@
+//For shadow (Only supported on Android)
+elevation: 4
+
+// For shadow ios
+shadowColor: "black",
+shadowOpacity: 0.25,
+shadowOffset: { width: 0, height: 2 },
+shadowRadius: 8,
+
+//if you want to change backgroundColor of full app --> add app.json 
+ "backgroundColor": "#24180f",
